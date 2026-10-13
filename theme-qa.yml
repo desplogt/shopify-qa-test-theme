@@ -1,0 +1,13 @@
+store: checkout-extension-luis.myshopify.com
+pages:
+  - /
+  - /collections/all
+  - /products/the-collection-snowboard-liquid
+  - /cart
+purchase:
+  products:
+    - /products/the-collection-snowboard-liquid
+    - /products/the-collection-snowboard-oxygen
+viewports: [desktop, mobile]
+block: []
+ignore: []
